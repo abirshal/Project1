@@ -98,6 +98,35 @@ button{
 .items-cont p{
     text-align: center;
 }
+.container3{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 32px;
+}
+.sign{
+    float: right;
+}
+.container4{
+    padding: 100px 200px 100px 200px;
+}
+.flex-container{
+    display: flex;
+    background-color: #3882F6;
+    align-items: center;
+    padding: 64px;
+    justify-content: space-between;
+    border-radius: 10px;
+    color: #F9FAF8;
+}
+.dv-item-right button{
+    border-color:#F9FAF8;
+}
+footer{
+    background-color: #1f2937;
+    text-align: center;
+    color: #e5e7eb;
+}
 /* @media only screen and(max-width:600px){
     .container1{
         padding: 0 16px 16px 16px;
